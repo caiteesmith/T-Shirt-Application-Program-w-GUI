@@ -1,0 +1,26 @@
+.root {
+    -fx-background-color: #A6A998;
+    -fx-focus-color: #E2CFC9;
+    -fx-text-fill: #3d352d;
+}
+
+#header {
+    -fx-font-size: 2.5em;
+    -fx-text-fill: #3d352d;
+}
+
+#subLabels {
+    -fx-font-size: 1.2em;
+    -fx-underline: true;
+}
+
+.button {
+    -fx-background-color: #E2CFC9;
+    -fx-text-fill: #3d352d;
+    -fx-max-width: 100px;
+}
+
+.button:hover {
+    -fx-background-color: #ad787e;
+    -fx-text-fill: #E2CFC9;
+}
