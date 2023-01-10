@@ -12,3 +12,5 @@ selecting a file to print the order to. The user must select a file
 that contains pricing. The user can completely clear the form and
 start fresh. There is also a help button provided to the user to
 inform on how to use this program.
+
+<img width="1680" alt="Screenshot 2023-01-10 at 5 09 35 PM" src="https://user-images.githubusercontent.com/7319667/211673073-675c3e06-49f2-4cc8-a23d-f5b8c7b77f9f.png">
